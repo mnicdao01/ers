@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/application/views/admin/withdraw.php" line="37" />
+    <bookmark url="file://$PROJECT_DIR$/application/views/admin/summary_month_all.php" line="88" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b0b7e18-8e56-49a4-b9b4-e4cceae23574" name="Default" comment="" />
+    <ignored path="ERS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ERS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4366" max-vertical-offset="14654">
+              <caret line="271" column="38" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax_add_template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1547">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scheduling_template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/scheduling_template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2635">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/admin/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.0555553" vertical-offset="46695" max-vertical-offset="66317">
+              <caret line="2766" column="74" selection-start-line="2766" selection-start-column="47" selection-end-line="2766" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/dashboard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1921">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_model.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/admin/main_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5798969" vertical-offset="27553" max-vertical-offset="43486">
+              <caret line="1692" column="62" selection-start-line="1692" selection-start-column="62" selection-end-line="1692" selection-end-column="62" />
+              <folding>
+                <element signature="n#get_level#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_month#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_pools#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_ip_addresses#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#save_ip#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_ip_specific#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_ip#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_emp_info#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_emp#0;n#main_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_emp_specific#0;n#main_model#0;n#!!top" expanded="false" />
+                <marker date="1483340914943" expanded="true" signature="181:207" placeholder="SELECT bank_..bank..." />
+                <marker date="1483340914943" expanded="true" signature="751:777" placeholder="SELECT dsc F..department..." />
+                <marker date="1483340914943" expanded="true" signature="920:940" placeholder="SELECT * FRO..office..." />
+                <marker date="1483340914943" expanded="true" signature="1107:1182" placeholder="UPDATE time_..." />
+                <marker date="1483340914943" expanded="true" signature="1397:1428" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="1662:1702" placeholder="SELECT * FRO..department..." />
+                <marker date="1483340914943" expanded="true" signature="1662:1709" placeholder="SELECT * FRO..department..." />
+                <marker date="1483340914943" expanded="true" signature="1857:1970" placeholder="SELECT B.off..emp_info..." />
+                <marker date="1483340914943" expanded="true" signature="2113:2162" placeholder="SELECT level..users..." />
+                <marker date="1483340914943" expanded="true" signature="2481:2507" placeholder="SELECT dsc,c..pools..." />
+                <marker date="1483340914943" expanded="true" signature="2668:2689" placeholder="SELECT * FRO..ip_pool..." />
+                <marker date="1483340914943" expanded="true" signature="2839:2912" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="3019:3055" placeholder="SELECT * FRO..ip_pool..." />
+                <marker date="1483340914943" expanded="true" signature="3195:3226" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="4218:4252" placeholder="SELECT * FRO..emp_info..." />
+                <marker date="1483340914943" expanded="true" signature="4688:4739" placeholder="UPDATE emp_i..." />
+                <marker date="1483340914943" expanded="true" signature="4964:5073" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="5174:5352" placeholder="SELECT A.id ..users..." />
+                <marker date="1483340914943" expanded="true" signature="5658:5684" placeholder="SELECT dsc F..department..." />
+                <marker date="1483340914943" expanded="true" signature="5840:5891" placeholder="SELECT dsc F..department..." />
+                <marker date="1483340914943" expanded="true" signature="7489:7610" placeholder="SELECT A.* F..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="7758:7819" placeholder="SELECT empid..emp_info..." />
+                <marker date="1483340914943" expanded="true" signature="8380:8805" placeholder="SELECT DAY(L..." />
+                <marker date="1483340914943" expanded="true" signature="8958:9317" placeholder="SELECT DAY(L..." />
+                <marker date="1483340914943" expanded="true" signature="9505:9562" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="9706:9779" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="9951:10069" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="10201:10263" placeholder="SELECT * FRO..emp_info..." />
+                <marker date="1483340914943" expanded="true" signature="10512:10603" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="10751:10822" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="11051:11104" placeholder="UPDATE emp_s..." />
+                <marker date="1483340914943" expanded="true" signature="11214:11259" placeholder="SELECT * FRO..users..." />
+                <marker date="1483340914943" expanded="true" signature="11416:11466" placeholder="SELECT offic..users..." />
+                <marker date="1483340914943" expanded="true" signature="11626:11678" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="11839:11867" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="11839:11882" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="11839:11883" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="11839:11890" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="12079:12232" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="12451:12489" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="12708:12748" placeholder="SELECT * FRO..sched_template..." />
+                <marker date="1483340914943" expanded="true" signature="12938:13086" placeholder="UPDATE sched..." />
+                <marker date="1483340914943" expanded="true" signature="13299:13337" placeholder="UPDATE users..." />
+                <marker date="1483340914943" expanded="true" signature="13600:13638" placeholder="UPDATE users..." />
+                <marker date="1483340914943" expanded="true" signature="13899:13928" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="14653:14705" placeholder="SELECT * FRO..bank_filename..." />
+                <marker date="1483340914943" expanded="true" signature="14840:14986" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="15323:15397" placeholder="UPDATE bank_..." />
+                <marker date="1483340914943" expanded="true" signature="15504:15558" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="15613:15661" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="15716:15766" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="15871:15932" placeholder="SELECT * FRO..bank_filename..." />
+                <marker date="1483340914943" expanded="true" signature="16107:16207" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="16554:16689" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="16801:16843" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="16953:16997" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="17114:17193" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="17310:17403" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="17516:17559" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="17667:17737" placeholder="SELECT * FRO..bca_raw..." />
+                <marker date="1483340914943" expanded="true" signature="17886:17958" placeholder="SELECT * FRO..bca_admin..." />
+                <marker date="1483340914943" expanded="true" signature="18518:18637" placeholder="SELECT id FR..bca_raw..." />
+                <marker date="1483340914943" expanded="true" signature="18804:18862" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="19723:19862" placeholder="SELECT id FR..bca_admin..." />
+                <marker date="1483340914943" expanded="true" signature="20027:20108" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="20327:20496" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="20537:20706" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="20891:21010" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="21219:21386" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="21436:21603" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="21793:21910" placeholder="SELECT SUM(a..." />
+                <marker date="1483340914943" expanded="true" signature="22118:22297" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="22346:22525" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="22748:22929" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="22970:23151" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="23339:23477" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="23655:23793" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="23969:24082" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="24258:24373" placeholder="SELECT sum(a..." />
+                <marker date="1483340914943" expanded="true" signature="24524:24585" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="24721:24797" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="25086:25166" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="25425:25487" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="25781:25836" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="25907:25965" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="26266:26315" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="26378:26429" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="26686:26741" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="27015:27072" placeholder="UPDATE bank_..." />
+                <marker date="1483340914943" expanded="true" signature="27355:27405" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="29555:29606" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="29642:29722" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="29795:29837" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="29900:29944" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="30296:30353" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="30424:30482" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="30998:31054" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="31129:31189" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="31957:32067" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="32913:33038" placeholder="SELECT id FR..bca_raw..." />
+                <marker date="1483340914943" expanded="true" signature="33203:33251" placeholder="UPDATE bca_r..." />
+                <marker date="1483340914943" expanded="true" signature="33381:33442" placeholder="UPDATE bca_a..." />
+                <marker date="1483340914943" expanded="true" signature="33587:33691" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="33822:33945" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="34061:34107" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="34221:34269" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="34846:34893" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="35166:35225" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="35460:35571" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="35822:35894" placeholder="SELECT * FRO..mandiri_raw..." />
+                <marker date="1483340914943" expanded="true" signature="36047:36123" placeholder="SELECT * FRO..mandiri_admin..." />
+                <marker date="1483340914943" expanded="true" signature="36323:36368" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="36439:36486" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="37146:37203" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="37470:37527" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="37594:37642" placeholder="SELECT * FRO..mandiri_raw..." />
+                <marker date="1483340914943" expanded="true" signature="37884:37941" placeholder="UPDATE bank_..." />
+                <marker date="1483340914943" expanded="true" signature="38212:38271" placeholder="UPDATE mandi..." />
+                <marker date="1483340914943" expanded="true" signature="38558:38658" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="38768:38808" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="38922:38977" placeholder="UPDATE bni_r..." />
+                <marker date="1483340914943" expanded="true" signature="39212:39323" placeholder="UPDATE bni_r..." />
+                <marker date="1483340914943" expanded="true" signature="39570:39614" placeholder="SELECT * FRO..bni_raw..." />
+                <marker date="1483340914943" expanded="true" signature="39771:39824" placeholder="UPDATE bni_r..." />
+                <marker date="1483340914943" expanded="true" signature="39891:39935" placeholder="SELECT * FRO..bni_raw..." />
+                <marker date="1483340914943" expanded="true" signature="40196:40296" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="40408:40448" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="40562:40617" placeholder="UPDATE bri_r..." />
+                <marker date="1483340914943" expanded="true" signature="40848:40955" placeholder="UPDATE bri_r..." />
+                <marker date="1483340914943" expanded="true" signature="41202:41244" placeholder="SELECT * FRO..bri_raw..." />
+                <marker date="1483340914943" expanded="true" signature="41401:41454" placeholder="UPDATE bri_r..." />
+                <marker date="1483340914943" expanded="true" signature="41521:41565" placeholder="SELECT * FRO..bri_raw..." />
+                <marker date="1483340914943" expanded="true" signature="41836:41940" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="42056:42102" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="42220:42273" placeholder="UPDATE perma..." />
+                <marker date="1483340914943" expanded="true" signature="42508:42619" placeholder="UPDATE perma..." />
+                <marker date="1483340914943" expanded="true" signature="42870:42917" placeholder="SELECT * FRO..permata_raw..." />
+                <marker date="1483340914943" expanded="true" signature="43078:43135" placeholder="UPDATE perma..." />
+                <marker date="1483340914943" expanded="true" signature="43202:43246" placeholder="SELECT * FRO..bri_raw..." />
+                <marker date="1483340914943" expanded="true" signature="43493:43596" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="43934:43962" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="44209:44289" placeholder="UPDATE bank ..." />
+                <marker date="1483340914943" expanded="true" signature="44524:44546" placeholder="SELECT * FRO..accounts..." />
+                <marker date="1483340914943" expanded="true" signature="44737:44907" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="45129:45173" placeholder="UPDATE accou..." />
+                <marker date="1483340914943" expanded="true" signature="45957:46089" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="46312:46375" placeholder="SELECT * FRO..wd_info..." />
+                <marker date="1483340914943" expanded="true" signature="47011:47104" placeholder="UPDATE wd_in..." />
+                <marker date="1483340914943" expanded="true" signature="47330:47438" placeholder="SELECT * FRO..wd_info..." />
+                <marker date="1483340914943" expanded="true" signature="49031:49123" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="49031:49141" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="49031:49155" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="49328:49447" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="49613:49730" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="49895:49945" placeholder="UPDATE wd_in..." />
+                <marker date="1483340914943" expanded="true" signature="50149:50168" placeholder="SELECT * FRO..pools..." />
+                <marker date="1483340914943" expanded="true" signature="50334:50433" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="50670:50770" placeholder="UPDATE pools..." />
+                <marker date="1483340914943" expanded="true" signature="50991:51020" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="51247:51408" placeholder="SELECT id, d..." />
+                <marker date="1483340914943" expanded="true" signature="51606:51798" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="52017:52195" placeholder="SELECT id, d..." />
+                <marker date="1483340914943" expanded="true" signature="52354:52551" placeholder="SELECT id, d..." />
+                <marker date="1483340914943" expanded="true" signature="52721:52982" placeholder="SELECT id, d..." />
+                <marker date="1483340914943" expanded="true" signature="53185:53348" placeholder="UPDATE globa..." />
+                <marker date="1483340914943" expanded="true" signature="53571:53607" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="54592:54752" placeholder="SELECT id,da..." />
+                <marker date="1483340914943" expanded="true" signature="55379:55512" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="55753:55871" placeholder="UPDATE depow..." />
+                <marker date="1483340914943" expanded="true" signature="56090:56121" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="56361:56465" placeholder="SELECT id, d..." />
+                <marker date="1483340914943" expanded="true" signature="56612:56644" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="56926:57115" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="57376:57532" placeholder="UPDATE expen..." />
+                <marker date="1483340914943" expanded="true" signature="57775:57895" placeholder="SELECT id, t..." />
+                <marker date="1483340914943" expanded="true" signature="58063:58162" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="58405:58503" placeholder="UPDATE annou..." />
+                <marker date="1483340914943" expanded="true" signature="58727:58764" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="58992:59139" placeholder="SELECT id, t..." />
+                <marker date="1483340914943" expanded="true" signature="59305:59329" placeholder="SELECT * fro..department..." />
+                <marker date="1483340914943" expanded="true" signature="59481:59540" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="59753:59787" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="60016:60069" placeholder="SELECT * FRO..emp_info..." />
+                <marker date="1483340914943" expanded="true" signature="60784:60848" placeholder="UPDATE emp_i..." />
+                <marker date="1483340914943" expanded="true" signature="61860:61982" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="62690:62775" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="63422:63542" placeholder="UPDATE it_re..." />
+                <marker date="1483340914943" expanded="true" signature="63762:63794" placeholder="SELECT * fro..it_cloudflare_info..." />
+                <marker date="1483340914943" expanded="true" signature="63949:63977" placeholder="SELECT * fro..it_cf_accounts..." />
+                <marker date="1483340914943" expanded="true" signature="64142:64207" placeholder="SELECT api_k..it_cf_accounts..." />
+                <marker date="1483340914943" expanded="true" signature="64372:64425" placeholder="DELETE from ..." />
+                <marker date="1483340914943" expanded="true" signature="64557:64590" placeholder="SELECT * fro..it_godaddy_accounts..." />
+                <marker date="1483340914943" expanded="true" signature="64741:64966" placeholder="SELECT id, a..." />
+                <marker date="1483340914943" expanded="true" signature="65130:65198" placeholder="SELECT api_k..it_cf_accounts..." />
+                <marker date="1483340914943" expanded="true" signature="65365:65422" placeholder="DELETE from ..." />
+                <marker date="1483340914943" expanded="true" signature="65561:65596" placeholder="SELECT * fro..it_server..." />
+                <marker date="1483340914943" expanded="true" signature="66135:66254" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="66255:66280" placeholder="UPDATE salar..." />
+                <marker date="1483340914943" expanded="true" signature="69044:69119" placeholder="SELECT * FRO..emp_schedule..." />
+                <marker date="1483340914943" expanded="true" signature="69278:69393" placeholder="SELECT * FRO..time_in..." />
+                <marker date="1483340914943" expanded="true" signature="69562:69683" placeholder="INSERT INTO ..." />
+                <marker date="1483340914943" expanded="true" signature="69801:69910" placeholder="DELETE FROM ..." />
+                <marker date="1483340914943" expanded="true" signature="77767:77848" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_edit_announcement.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/announcement.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/my_schedule.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/table_depowid.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_edit_accounts_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/profile.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/attendance.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_edit_timein.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/attendance_monitor.php" />
+        <option value="$PROJECT_DIR$/application/views/change_pass.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/change_pass.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_add_it.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_edit_it.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/it.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/member_schedule.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_bca_admin.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_mandiri.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mandiri.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_bca_past.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_search_save_bca.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_add_wd_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_wd_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_edit_expenses.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/expenses.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_add_expenses.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_d_match.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_report_global.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/table_market.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_report_bca.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_bca.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/att_compute.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_view_my_attendance.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/bca.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Client.php" />
+        <option value="$PROJECT_DIR$/application/views/c_main2.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/employee.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/users.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/scheduling.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/views/admin/it_godaddy.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/server_info.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_add_emp.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/ajax_add_template.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/c_main.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/main.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/main.php" />
+        <option value="$PROJECT_DIR$/application/models/admin/main_model.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="D:/laravel/rbreezy/rbreezy" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\ers\application\views\admin" />
+      <recent name="C:\xampp\htdocs\ERS\application\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ERS\application\views\admin" />
+      <recent name="C:\xampp\htdocs\ERS\" />
+      <recent name="C:\xampp\htdocs\ERS\application" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="2c07e56c-f9b8-4604-8393-ceabed6b47a6" server_name="sfx">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b0b7e18-8e56-49a4-b9b4-e4cceae23574" name="Default" comment="" />
+      <created>1427193559264</created>
+      <option name="number" value="Default" />
+      <updated>1427193559264</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24027778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14138818" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23714653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Welcome.php</url>
+          <line>3</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/mandiri.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2037036" vertical-offset="102" max-vertical-offset="4539">
+          <caret line="13" column="12" selection-start-line="12" selection-start-column="41" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.150376" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_search_save_bca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2193">
+          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="96" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/bni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4857143" vertical-offset="0" max-vertical-offset="3332">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/bank_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30676693" vertical-offset="0" max-vertical-offset="1972">
+          <caret line="12" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_bank_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="13" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_depowid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_edit_depowid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0992482" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_edit_bank_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_wd_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10675039" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_wd_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9615383" vertical-offset="2752" max-vertical-offset="3417">
+          <caret line="171" column="42" selection-start-line="171" selection-start-column="42" selection-end-line="171" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/withdraw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="1989" max-vertical-offset="3128">
+          <caret line="134" column="36" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_edit_expenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1292">
+          <caret line="16" column="110" selection-start-line="16" selection-start-column="110" selection-end-line="16" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/expenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1562" max-vertical-offset="2975">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_expenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1343">
+          <caret line="59" column="96" selection-start-line="59" selection-start-column="86" selection-end-line="59" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_bca_past.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.115385" vertical-offset="950" max-vertical-offset="2737">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_bca_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6153846" vertical-offset="408" max-vertical-offset="1785">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="691">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_d_match.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7222223" vertical-offset="510" max-vertical-offset="1445">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_report_global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="408">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/global_market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43458647" vertical-offset="816" max-vertical-offset="1887">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/table_market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="2958">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_bca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04850214" vertical-offset="1122" max-vertical-offset="7650">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_report_bca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23809524" vertical-offset="4386" max-vertical-offset="5491">
+          <caret line="268" column="30" selection-start-line="268" selection-start-column="30" selection-end-line="268" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/att_compute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="901">
+          <caret line="45" column="8" selection-start-line="1" selection-start-column="0" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_view_my_attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1632">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/bca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31240427" vertical-offset="5406" max-vertical-offset="6290">
+          <caret line="330" column="45" selection-start-line="330" selection-start-column="45" selection-end-line="330" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/c_main2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6257669" vertical-offset="595" max-vertical-offset="6766">
+          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="3876">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Client_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2533">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.8461537" vertical-offset="561" max-vertical-offset="2499">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5368421" vertical-offset="714" max-vertical-offset="1989">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_schedule_summary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="691">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1894736" vertical-offset="5363" max-vertical-offset="8619">
+          <caret line="362" column="26" selection-start-line="362" selection-start-column="25" selection-end-line="362" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4255639" vertical-offset="856" max-vertical-offset="1547">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/scheduling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.2015038" vertical-offset="678" max-vertical-offset="2567">
+          <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/cpanel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3828829" vertical-offset="1224" max-vertical-offset="12733">
+          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/it_godaddy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.423077" vertical-offset="408" max-vertical-offset="4369">
+          <caret line="69" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_accounts_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7657658" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="30" column="17" selection-start-line="26" selection-start-column="7" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/server_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7702703" vertical-offset="643" max-vertical-offset="1887">
+          <caret line="68" column="102" selection-start-line="68" selection-start-column="102" selection-end-line="68" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_emp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6890244" vertical-offset="392" max-vertical-offset="1700">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/scheduling_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2635">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/ajax_add_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1547">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1921">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/c_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4047619" vertical-offset="2533" max-vertical-offset="5865">
+          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35079366" vertical-offset="357" max-vertical-offset="4471">
+          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4366" max-vertical-offset="14654">
+          <caret line="271" column="38" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0555553" vertical-offset="46695" max-vertical-offset="66317">
+          <caret line="2766" column="74" selection-start-line="2766" selection-start-column="47" selection-end-line="2766" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/admin/main_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5798969" vertical-offset="27553" max-vertical-offset="43486">
+          <caret line="1692" column="62" selection-start-line="1692" selection-start-column="62" selection-end-line="1692" selection-end-column="62" />
+          <folding>
+            <element signature="n#get_level#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_month#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_pools#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_ip_addresses#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#save_ip#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_ip_specific#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_ip#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_emp_info#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_emp#0;n#main_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_emp_specific#0;n#main_model#0;n#!!top" expanded="false" />
+            <marker date="1483340914943" expanded="true" signature="181:207" placeholder="SELECT bank_..bank..." />
+            <marker date="1483340914943" expanded="true" signature="751:777" placeholder="SELECT dsc F..department..." />
+            <marker date="1483340914943" expanded="true" signature="920:940" placeholder="SELECT * FRO..office..." />
+            <marker date="1483340914943" expanded="true" signature="1107:1182" placeholder="UPDATE time_..." />
+            <marker date="1483340914943" expanded="true" signature="1397:1428" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="1662:1702" placeholder="SELECT * FRO..department..." />
+            <marker date="1483340914943" expanded="true" signature="1662:1709" placeholder="SELECT * FRO..department..." />
+            <marker date="1483340914943" expanded="true" signature="1857:1970" placeholder="SELECT B.off..emp_info..." />
+            <marker date="1483340914943" expanded="true" signature="2113:2162" placeholder="SELECT level..users..." />
+            <marker date="1483340914943" expanded="true" signature="2481:2507" placeholder="SELECT dsc,c..pools..." />
+            <marker date="1483340914943" expanded="true" signature="2668:2689" placeholder="SELECT * FRO..ip_pool..." />
+            <marker date="1483340914943" expanded="true" signature="2839:2912" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="3019:3055" placeholder="SELECT * FRO..ip_pool..." />
+            <marker date="1483340914943" expanded="true" signature="3195:3226" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="4218:4252" placeholder="SELECT * FRO..emp_info..." />
+            <marker date="1483340914943" expanded="true" signature="4688:4739" placeholder="UPDATE emp_i..." />
+            <marker date="1483340914943" expanded="true" signature="4964:5073" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="5174:5352" placeholder="SELECT A.id ..users..." />
+            <marker date="1483340914943" expanded="true" signature="5658:5684" placeholder="SELECT dsc F..department..." />
+            <marker date="1483340914943" expanded="true" signature="5840:5891" placeholder="SELECT dsc F..department..." />
+            <marker date="1483340914943" expanded="true" signature="7489:7610" placeholder="SELECT A.* F..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="7758:7819" placeholder="SELECT empid..emp_info..." />
+            <marker date="1483340914943" expanded="true" signature="8380:8805" placeholder="SELECT DAY(L..." />
+            <marker date="1483340914943" expanded="true" signature="8958:9317" placeholder="SELECT DAY(L..." />
+            <marker date="1483340914943" expanded="true" signature="9505:9562" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="9706:9779" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="9951:10069" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="10201:10263" placeholder="SELECT * FRO..emp_info..." />
+            <marker date="1483340914943" expanded="true" signature="10512:10603" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="10751:10822" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="11051:11104" placeholder="UPDATE emp_s..." />
+            <marker date="1483340914943" expanded="true" signature="11214:11259" placeholder="SELECT * FRO..users..." />
+            <marker date="1483340914943" expanded="true" signature="11416:11466" placeholder="SELECT offic..users..." />
+            <marker date="1483340914943" expanded="true" signature="11626:11678" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="11839:11867" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="11839:11882" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="11839:11883" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="11839:11890" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="12079:12232" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="12451:12489" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="12708:12748" placeholder="SELECT * FRO..sched_template..." />
+            <marker date="1483340914943" expanded="true" signature="12938:13086" placeholder="UPDATE sched..." />
+            <marker date="1483340914943" expanded="true" signature="13299:13337" placeholder="UPDATE users..." />
+            <marker date="1483340914943" expanded="true" signature="13600:13638" placeholder="UPDATE users..." />
+            <marker date="1483340914943" expanded="true" signature="13899:13928" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="14653:14705" placeholder="SELECT * FRO..bank_filename..." />
+            <marker date="1483340914943" expanded="true" signature="14840:14986" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="15323:15397" placeholder="UPDATE bank_..." />
+            <marker date="1483340914943" expanded="true" signature="15504:15558" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="15613:15661" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="15716:15766" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="15871:15932" placeholder="SELECT * FRO..bank_filename..." />
+            <marker date="1483340914943" expanded="true" signature="16107:16207" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="16554:16689" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="16801:16843" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="16953:16997" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="17114:17193" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="17310:17403" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="17516:17559" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="17667:17737" placeholder="SELECT * FRO..bca_raw..." />
+            <marker date="1483340914943" expanded="true" signature="17886:17958" placeholder="SELECT * FRO..bca_admin..." />
+            <marker date="1483340914943" expanded="true" signature="18518:18637" placeholder="SELECT id FR..bca_raw..." />
+            <marker date="1483340914943" expanded="true" signature="18804:18862" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="19723:19862" placeholder="SELECT id FR..bca_admin..." />
+            <marker date="1483340914943" expanded="true" signature="20027:20108" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="20327:20496" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="20537:20706" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="20891:21010" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="21219:21386" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="21436:21603" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="21793:21910" placeholder="SELECT SUM(a..." />
+            <marker date="1483340914943" expanded="true" signature="22118:22297" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="22346:22525" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="22748:22929" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="22970:23151" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="23339:23477" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="23655:23793" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="23969:24082" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="24258:24373" placeholder="SELECT sum(a..." />
+            <marker date="1483340914943" expanded="true" signature="24524:24585" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="24721:24797" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="25086:25166" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="25425:25487" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="25781:25836" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="25907:25965" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="26266:26315" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="26378:26429" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="26686:26741" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="27015:27072" placeholder="UPDATE bank_..." />
+            <marker date="1483340914943" expanded="true" signature="27355:27405" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="29555:29606" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="29642:29722" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="29795:29837" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="29900:29944" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="30296:30353" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="30424:30482" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="30998:31054" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="31129:31189" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="31957:32067" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="32913:33038" placeholder="SELECT id FR..bca_raw..." />
+            <marker date="1483340914943" expanded="true" signature="33203:33251" placeholder="UPDATE bca_r..." />
+            <marker date="1483340914943" expanded="true" signature="33381:33442" placeholder="UPDATE bca_a..." />
+            <marker date="1483340914943" expanded="true" signature="33587:33691" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="33822:33945" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="34061:34107" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="34221:34269" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="34846:34893" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="35166:35225" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="35460:35571" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="35822:35894" placeholder="SELECT * FRO..mandiri_raw..." />
+            <marker date="1483340914943" expanded="true" signature="36047:36123" placeholder="SELECT * FRO..mandiri_admin..." />
+            <marker date="1483340914943" expanded="true" signature="36323:36368" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="36439:36486" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="37146:37203" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="37470:37527" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="37594:37642" placeholder="SELECT * FRO..mandiri_raw..." />
+            <marker date="1483340914943" expanded="true" signature="37884:37941" placeholder="UPDATE bank_..." />
+            <marker date="1483340914943" expanded="true" signature="38212:38271" placeholder="UPDATE mandi..." />
+            <marker date="1483340914943" expanded="true" signature="38558:38658" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="38768:38808" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="38922:38977" placeholder="UPDATE bni_r..." />
+            <marker date="1483340914943" expanded="true" signature="39212:39323" placeholder="UPDATE bni_r..." />
+            <marker date="1483340914943" expanded="true" signature="39570:39614" placeholder="SELECT * FRO..bni_raw..." />
+            <marker date="1483340914943" expanded="true" signature="39771:39824" placeholder="UPDATE bni_r..." />
+            <marker date="1483340914943" expanded="true" signature="39891:39935" placeholder="SELECT * FRO..bni_raw..." />
+            <marker date="1483340914943" expanded="true" signature="40196:40296" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="40408:40448" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="40562:40617" placeholder="UPDATE bri_r..." />
+            <marker date="1483340914943" expanded="true" signature="40848:40955" placeholder="UPDATE bri_r..." />
+            <marker date="1483340914943" expanded="true" signature="41202:41244" placeholder="SELECT * FRO..bri_raw..." />
+            <marker date="1483340914943" expanded="true" signature="41401:41454" placeholder="UPDATE bri_r..." />
+            <marker date="1483340914943" expanded="true" signature="41521:41565" placeholder="SELECT * FRO..bri_raw..." />
+            <marker date="1483340914943" expanded="true" signature="41836:41940" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="42056:42102" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="42220:42273" placeholder="UPDATE perma..." />
+            <marker date="1483340914943" expanded="true" signature="42508:42619" placeholder="UPDATE perma..." />
+            <marker date="1483340914943" expanded="true" signature="42870:42917" placeholder="SELECT * FRO..permata_raw..." />
+            <marker date="1483340914943" expanded="true" signature="43078:43135" placeholder="UPDATE perma..." />
+            <marker date="1483340914943" expanded="true" signature="43202:43246" placeholder="SELECT * FRO..bri_raw..." />
+            <marker date="1483340914943" expanded="true" signature="43493:43596" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="43934:43962" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="44209:44289" placeholder="UPDATE bank ..." />
+            <marker date="1483340914943" expanded="true" signature="44524:44546" placeholder="SELECT * FRO..accounts..." />
+            <marker date="1483340914943" expanded="true" signature="44737:44907" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="45129:45173" placeholder="UPDATE accou..." />
+            <marker date="1483340914943" expanded="true" signature="45957:46089" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="46312:46375" placeholder="SELECT * FRO..wd_info..." />
+            <marker date="1483340914943" expanded="true" signature="47011:47104" placeholder="UPDATE wd_in..." />
+            <marker date="1483340914943" expanded="true" signature="47330:47438" placeholder="SELECT * FRO..wd_info..." />
+            <marker date="1483340914943" expanded="true" signature="49031:49123" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="49031:49141" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="49031:49155" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="49328:49447" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="49613:49730" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="49895:49945" placeholder="UPDATE wd_in..." />
+            <marker date="1483340914943" expanded="true" signature="50149:50168" placeholder="SELECT * FRO..pools..." />
+            <marker date="1483340914943" expanded="true" signature="50334:50433" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="50670:50770" placeholder="UPDATE pools..." />
+            <marker date="1483340914943" expanded="true" signature="50991:51020" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="51247:51408" placeholder="SELECT id, d..." />
+            <marker date="1483340914943" expanded="true" signature="51606:51798" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="52017:52195" placeholder="SELECT id, d..." />
+            <marker date="1483340914943" expanded="true" signature="52354:52551" placeholder="SELECT id, d..." />
+            <marker date="1483340914943" expanded="true" signature="52721:52982" placeholder="SELECT id, d..." />
+            <marker date="1483340914943" expanded="true" signature="53185:53348" placeholder="UPDATE globa..." />
+            <marker date="1483340914943" expanded="true" signature="53571:53607" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="54592:54752" placeholder="SELECT id,da..." />
+            <marker date="1483340914943" expanded="true" signature="55379:55512" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="55753:55871" placeholder="UPDATE depow..." />
+            <marker date="1483340914943" expanded="true" signature="56090:56121" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="56361:56465" placeholder="SELECT id, d..." />
+            <marker date="1483340914943" expanded="true" signature="56612:56644" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="56926:57115" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="57376:57532" placeholder="UPDATE expen..." />
+            <marker date="1483340914943" expanded="true" signature="57775:57895" placeholder="SELECT id, t..." />
+            <marker date="1483340914943" expanded="true" signature="58063:58162" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="58405:58503" placeholder="UPDATE annou..." />
+            <marker date="1483340914943" expanded="true" signature="58727:58764" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="58992:59139" placeholder="SELECT id, t..." />
+            <marker date="1483340914943" expanded="true" signature="59305:59329" placeholder="SELECT * fro..department..." />
+            <marker date="1483340914943" expanded="true" signature="59481:59540" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="59753:59787" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="60016:60069" placeholder="SELECT * FRO..emp_info..." />
+            <marker date="1483340914943" expanded="true" signature="60784:60848" placeholder="UPDATE emp_i..." />
+            <marker date="1483340914943" expanded="true" signature="61860:61982" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="62690:62775" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="63422:63542" placeholder="UPDATE it_re..." />
+            <marker date="1483340914943" expanded="true" signature="63762:63794" placeholder="SELECT * fro..it_cloudflare_info..." />
+            <marker date="1483340914943" expanded="true" signature="63949:63977" placeholder="SELECT * fro..it_cf_accounts..." />
+            <marker date="1483340914943" expanded="true" signature="64142:64207" placeholder="SELECT api_k..it_cf_accounts..." />
+            <marker date="1483340914943" expanded="true" signature="64372:64425" placeholder="DELETE from ..." />
+            <marker date="1483340914943" expanded="true" signature="64557:64590" placeholder="SELECT * fro..it_godaddy_accounts..." />
+            <marker date="1483340914943" expanded="true" signature="64741:64966" placeholder="SELECT id, a..." />
+            <marker date="1483340914943" expanded="true" signature="65130:65198" placeholder="SELECT api_k..it_cf_accounts..." />
+            <marker date="1483340914943" expanded="true" signature="65365:65422" placeholder="DELETE from ..." />
+            <marker date="1483340914943" expanded="true" signature="65561:65596" placeholder="SELECT * fro..it_server..." />
+            <marker date="1483340914943" expanded="true" signature="66135:66254" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="66255:66280" placeholder="UPDATE salar..." />
+            <marker date="1483340914943" expanded="true" signature="69044:69119" placeholder="SELECT * FRO..emp_schedule..." />
+            <marker date="1483340914943" expanded="true" signature="69278:69393" placeholder="SELECT * FRO..time_in..." />
+            <marker date="1483340914943" expanded="true" signature="69562:69683" placeholder="INSERT INTO ..." />
+            <marker date="1483340914943" expanded="true" signature="69801:69910" placeholder="DELETE FROM ..." />
+            <marker date="1483340914943" expanded="true" signature="77767:77848" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
